@@ -2,9 +2,9 @@ AI CHATBOT WITH NLP
 
 company: CODTECH IT SOLUTIONS
 
-NAME: DANDE SRIDHAR
+NAME: CHALLA KALYNAI
 
-INTERN ID : CT08DA47
+INTERN ID : CT08DA130
 
 DOMAIN: PYTHON
 
@@ -41,3 +41,5 @@ A working chatbot demonstration – This could be a terminal-based or graphical 
 Though the chatbot doesn't need to be fully advanced or API-integrated, it must be demonstrably useful and show that the intern understands how to apply NLP to conversational systems. Creativity in responses, custom datasets, or extended functionality like FAQs, greeting recognition, and basic fallback messages will be viewed favorably.
 
 Overall, this task serves as an excellent introduction to real-world NLP applications and conversational AI. It encourages hands-on coding, logical implementation, and an understanding of human language from a computational point of view. Upon completion, the intern will gain valuable experience in natural language interfaces, which are increasingly in demand across industries ranging from customer service to education and virtual assistants.
+
+![Image](https://github.com/user-attachments/assets/4093426d-43e9-4de6-9083-46dce7693466)
